@@ -1,1 +1,1 @@
-# make_a_plan
+# This repo is for testing OpenAI with langchain
